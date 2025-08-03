@@ -1,0 +1,5 @@
+
+GET /index.html HTTP/1.1
+Host: example.com
+User-Agent: Mozilla/5.0
+X-Note: VGhlIGRyb3AgbG9jYXRpb24gaXMgaGlkZGVuIGluIHRoZSBuZXh0IGZpbGUu
